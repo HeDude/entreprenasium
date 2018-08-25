@@ -1,0 +1,1 @@
+/srv/production/model/data/mediawiki/entreprenasium/
